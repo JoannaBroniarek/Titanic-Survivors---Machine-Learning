@@ -1,4 +1,4 @@
-# Machine_Learning_Basics
+# Machine_Learning_Basics - Titanic data analysis
 
 The project was created by me as part of completing the additional classes "Machine Learning" at the University of Warsaw. 
 
