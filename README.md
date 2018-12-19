@@ -1,4 +1,4 @@
-# Titanic Survivals - Machine Learning
+# Titanic Survivors - Machine Learning
 Joanna Broniarek, 
 December 2017
 
