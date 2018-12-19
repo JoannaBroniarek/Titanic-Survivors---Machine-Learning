@@ -1,5 +1,6 @@
 # Titanic Survivals - Machine Learning
-Joanna Broniarek
+Joanna Broniarek, 
+December 2017
 
 ![titanic-photo](https://ocdn.eu/pulscms-transforms/1/3yck9kqTURBXy80NTYzNTExY2MzODdkZGU4M2JkNWQwZWQ2NDBiMTc0NS5qcGVnkZMCzQMmAIKhMAGhMQA)
 
